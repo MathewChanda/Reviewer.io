@@ -7,4 +7,13 @@
     <string name="edit_password">Password</string>
     <string name="text_login">Login</string>
     <string name="text_title">Course Helper</string>
+    <string name="text_next">Next</string>
+    <string name="text_dept">Department</string>
+    <string name="text_num">Course Number</string>
+    <string-array name="depts_array">
+        <item>CSC</item>
+        <item>MA</item>
+        <item>ENG</item>
+        <item>PSY</item>
+    </string-array>
 </resources>
