@@ -1,4 +1,4 @@
-package com.example.myfirstapp;
+package com.example.coursehelper;
 
 import androidx.appcompat.app.AppCompatActivity;
 

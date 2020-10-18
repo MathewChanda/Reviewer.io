@@ -1,4 +1,4 @@
-package com.example.myfirstapp;
+package com.example.coursehelper;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -9,9 +9,9 @@ import android.widget.EditText;
 
 public class MainActivity extends AppCompatActivity {
     /** Constant for email */
-    public static final String EXTRA_EMAIL = "com.example.myfirstapp.EMAIL";
+    public static final String EXTRA_EMAIL = "com.example.coursehelper.EMAIL";
     /** Constant for password */
-    public static final String EXTRA_PASSWORD = "com.example.myfirstapp.PASSWORD";
+    public static final String EXTRA_PASSWORD = "com.example.coursehelper.PASSWORD";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
 
     /** Called when the user taps the Send button */
     public void login(View view) {
-        Intent intent = new Intent(this, DisplayMessageActivity.class);
+        Intent intent = new Intent(this, com.example.coursehelper.DisplayMessageActivity.class);
 
         EditText editTextEmail = (EditText) findViewById(R.id.editTextEmail);
         EditText editTextPassword = (EditText) findViewById(R.id.editTextPassword);

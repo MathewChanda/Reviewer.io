@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "961389040618",
+    "firebase_url": "https://course-helper-1e335.firebaseio.com",
+    "project_id": "course-helper-1e335",
+    "storage_bucket": "course-helper-1e335.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961389040618:android:f8efc937d920eff3089893",
+        "android_client_info": {
+          "package_name": "com.example.coursehelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961389040618-o6dob57m37vglbcemo82anr4hcg60jb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx5qY1nHL00-IkOkTT70ZnW4tenj9Rku4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961389040618-o6dob57m37vglbcemo82anr4hcg60jb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
