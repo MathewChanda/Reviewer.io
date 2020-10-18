@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Reviewer.io</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="button_login">LOGIN</string>
+    <string name="edit_email">Email</string>
+    <string name="edit_password">Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_title">Reviewer.io</string>
+    <string name="text_next">Next</string>
+    <string name="text_dept">Department</string>
+    <string name="text_num">Course Number</string>
+    <string-array name="depts_array">
+        <item> </item>
+        <item>CSC</item>
+        <item>PSY</item>
+        <item>PY</item>
+        <item>CH</item>
+        <item>BIO</item>
+        <item>MEA</item>
+    </string-array>
+    <string-array name="depts_array_single">
+        <item>CSC</item>
+    </string-array>
+    <string-array name="courses_array">
+        <item> </item>
+        <item>116</item>
+        <item>216</item>
+        <item>226</item>
+        <item>230</item>
+        <item>316</item>
+    </string-array>
+    <string-array name="courses_array_single">
+        <item>116</item>
+    </string-array>
+    <string name="text_q1">What is the workload like in CSC?</string>
+    <string name="text_q2">What are career paths after CSC?</string>
+    <string name="text_q3">It is a mandatory course to become...</string>
+    <string name="text_q4">Are there any pre-requisites to it?</string>
+    <string name="text_q5">Which programming language will I...</string>
+    <string name="text_ask">Ask anything!</string>
+    <string name="attr_content_decr">ask a question</string>
+    <string name="text_ask_hint">Ask a question...</string>
+    <string name="button_post">POST</string>
+    <string name="text_blah">I would say that there is a significant workload for the major CSC classes
+        such as CSC 216 and 316, but it is all very manageable with proper time management skills.
+        Do not fret if you do poorly your first time in these classes! Even I had to retake 316 ;).</string>
+    <string name="text_user">Prof. Chao, CS_HOD          Oct-17</string>
+    <string name="text_reply">Reply</string>
+</resources>
